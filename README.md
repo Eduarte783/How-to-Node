@@ -30,7 +30,7 @@ node index.js
 nodemon index.js 
 to automatically rerun your code every time changes are saved. 7. Your new Node project is now set up!
 
-##Node Modules
+## Node Modules
 Modules allow us to export code from a file (module), and import it into other files. Modules are useful for achieving certain goals and can be easily reused and shared.
 
 1. To create a module, create a file called Module_name.js. Within the file, you can add code to export by coding: 
@@ -45,7 +45,7 @@ Module_Name.KEY ^^^ this will call the key we defined in the module.
 
 3. Node has many Built-In Modules that are super useful. You can use them in the same way as defined in part 2, but don't need to define them in their own file. Look up some built in modules and see what they can do!
 
-##Node Packages
+## Node Packages
 Node packages are essentially just third-party modules.
 
 * There are hundreds of thousands of such modules out there, available as NPMs.
